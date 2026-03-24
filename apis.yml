@@ -1,0 +1,7 @@
+aid: wabco-holdings
+url: https://raw.githubusercontent.com/api-evangelist/wabco-holdings/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.wabco-holdings.com
