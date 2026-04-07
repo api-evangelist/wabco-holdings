@@ -1,7 +1,12 @@
 aid: wabco-holdings
-url: https://raw.githubusercontent.com/api-evangelist/wabco-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/wabco-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.wabco-holdings.com
+description: >-
+  WABCO Holdings was a leading global supplier of technologies and services that improve
+  the safety, efficiency, and connectivity of commercial vehicles before being acquired
+  by ZF Friedrichshafen.
