@@ -1,0 +1,104 @@
+info:
+  title: WABCO Holdings Vocabulary
+  description: >-
+    Vocabulary and taxonomy for WABCO Holdings (now ZF Commercial Vehicle Control
+    Systems) covering commercial vehicle safety systems, telematics, fleet management,
+    and autonomous driving technology domains.
+  version: 1.0.0
+  created: '2026-05-03'
+  modified: '2026-05-03'
+
+domains:
+  - name: Commercial Vehicle Safety
+    description: Safety system and vehicle control terminology
+    terms:
+      - term: ABS
+        full_name: Anti-lock Braking System
+        definition: Electronic safety system that prevents wheel lock-up during braking, maintaining vehicle control
+      - term: EBS
+        full_name: Electronic Braking System
+        definition: >-
+          Fully electronic brake management system replacing pneumatic control with
+          electronic signals for faster, more precise braking response in commercial vehicles
+      - term: ADAS
+        full_name: Advanced Driver Assistance Systems
+        definition: >-
+          Electronic systems that assist drivers in vehicle operation and collision
+          avoidance, including automatic emergency braking, lane keeping, and adaptive cruise control
+      - term: Stability Control
+        definition: >-
+          Electronic system that detects and corrects vehicle instability, preventing
+          rollovers and jackknifing in commercial vehicles
+        synonyms: [ESC, Electronic Stability Control, RSP]
+      - term: Air Suspension
+        definition: >-
+          Pneumatic suspension system using air springs to provide adjustable ride height
+          and load leveling for commercial trailers and trucks
+      - term: OnGuard
+        definition: >-
+          WABCO's commercial vehicle collision mitigation and adaptive cruise control
+          system using radar to detect and respond to vehicles ahead
+
+  - name: Fleet Management & Telematics
+    description: Vehicle connectivity and fleet operations terminology
+    terms:
+      - term: Telematics
+        definition: >-
+          Technology combining telecommunications and vehicle monitoring to transmit
+          real-time vehicle location, performance, and diagnostic data to fleet operators
+      - term: OBD
+        full_name: On-Board Diagnostics
+        definition: Vehicle self-diagnostic system providing access to vehicle health data via standardized interface
+      - term: Fault Code
+        definition: >-
+          Diagnostic trouble code indicating a specific malfunction or alert condition
+          detected by the vehicle's electronic control systems
+        synonyms: [DTC, Diagnostic Trouble Code]
+      - term: Remote Diagnostics
+        definition: >-
+          Technology enabling fleet operators and service centers to access vehicle
+          health data and fault information remotely without physical inspection
+      - term: OptiLink
+        definition: >-
+          WABCO's telematics platform providing electronic diagnostic and service
+          communication between trucks, trailers, and fleet management systems
+      - term: Fleet Management System
+        definition: >-
+          Software platform for managing commercial vehicle fleets including tracking,
+          maintenance scheduling, driver behavior monitoring, and compliance reporting
+        abbreviation: FMS
+
+  - name: Autonomous Vehicle Technology
+    description: Autonomous and connected vehicle terminology
+    terms:
+      - term: AEBS
+        full_name: Autonomous Emergency Braking System
+        definition: >-
+          Safety system that automatically applies braking when a collision is detected
+          to be imminent, without driver input
+      - term: Platooning
+        definition: >-
+          Convoy driving technique where multiple trucks travel closely together using
+          vehicle-to-vehicle communication to synchronize braking and acceleration
+      - term: V2V
+        full_name: Vehicle-to-Vehicle Communication
+        definition: >-
+          Direct communication between nearby vehicles to share speed, position,
+          and hazard information for safety and coordination
+      - term: OTA Update
+        full_name: Over-the-Air Update
+        definition: >-
+          Remote software or firmware update delivered wirelessly to vehicle electronic
+          control units without requiring physical connection
+
+  - name: ZF Integration
+    description: Post-acquisition ZF Friedrichshafen integration terminology
+    terms:
+      - term: ZF
+        full_name: ZF Friedrichshafen AG
+        definition: >-
+          German automotive supplier that acquired WABCO Holdings in 2020. WABCO now
+          operates as ZF's Commercial Vehicle Control Systems division
+      - term: Commercial Vehicle Control Systems
+        definition: ZF division comprising the former WABCO Holdings operations
+        abbreviation: CVCS
