@@ -43,6 +43,10 @@ apis:
       - type: Documentation
         url: https://wabco-solutioncentre.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/WABCO
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wabco
   - type: Website
     url: https://www.wabco-holdings.com
   - type: Portal
