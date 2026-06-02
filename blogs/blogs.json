@@ -2,13 +2,13 @@
   "repo": "wabco-holdings",
   "feeds": [
     {
-      "source": "https://www.wabco-holdings.com/news",
-      "feed_url": "",
+      "source": "https://wabco-solutioncentre.com",
+      "feed_url": "https://wabco-solutioncentre.com/feed/",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "discovered"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
