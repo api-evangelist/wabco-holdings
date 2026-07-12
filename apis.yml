@@ -44,6 +44,8 @@ apis:
       - type: Documentation
         url: https://wabco-solutioncentre.com
 common:
+  - type: DomainSecurity
+    url: security/wabco-holdings-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/WABCO
   - type: LinkedIn
