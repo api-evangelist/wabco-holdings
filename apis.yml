@@ -34,7 +34,7 @@ created: '2025-03-01'
 modified: '2026-05-03'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/wabco-holdings/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: wabco-holdings:wabco-fleet-management
     name: WABCO Fleet Management API
