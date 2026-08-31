@@ -67,6 +67,11 @@ apis:
       - type: Documentation
         url: https://wabco-solutioncentre.com
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/zf-friedrichshafen/
+    name: ZF Friedrichshafen
+    x-relationship: acquired
+    x-evidence: "WABCO was acquired by ZF Friedrichshafen in 2020 and now operates as ZF's Commercial Vehicle Control Systems division, continuing to serve OEMs, fleets, and aftermarket customers worldwide with integrated telematics, fleet management, and v"
   - type: DomainSecurity
     url: security/wabco-holdings-domain-security.yml
   - type: GitHubOrganization
