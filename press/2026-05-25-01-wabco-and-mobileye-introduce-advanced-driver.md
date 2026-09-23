@@ -1,7 +1,9 @@
 ---
 title: WABCO and Mobileye Introduce Advanced Driver ...
 url: https://www.oemoffhighway.com/electronics/smart-systems/automated-systems/press-release/12259947/wabco-and-mobileye-introduce-advanced-driver-assistance-system-and-road-experience-management-technology
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WABCO Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

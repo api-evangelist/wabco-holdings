@@ -1,7 +1,9 @@
 ---
 title: WABCO Holdings Inc.
 url: https://www.sec.gov/Archives/edgar/data/1390844/000139084420000003/wbc10k12312019.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WABCO Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: ZF Launches Advanced WABCO TOOLBOX PLUS ...
 url: https://www.prnewswire.com/news-releases/zf-launches-advanced-wabco-toolbox-plus-diagnostic-software-301093170.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WABCO Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google
