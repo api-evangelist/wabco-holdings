@@ -94,3 +94,9 @@ x-lifecycle:
   detail: >-
     The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
   indexed: false
+x-status: acquired
+x-acquired-by: zf-friedrichshafen
+x-parent: zf-friedrichshafen
+x-acquired-date: '2020-05'
+x-status-source: "https://wabco-auto.com/"
+x-status-evidence: "wabco-auto.com redirects to zf.com commercial-vehicle products (probed 2026-10-03); ZF completed the WABCO acquisition in May 2020 (roadmap#814)"
