@@ -64,50 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WABCO Holdings was a leading global supplier of technologies and services that improve the safety, efficiency, and connectivity of commercial vehicles. WABCO developed advanced braking, stability, suspension, and transmission automation systems for trucks, buses, and trailers. In May 2020, WABCO was acquired by ZF Friedrichshafen and now operates as ZF's Commercial Vehicle Control Systems division, continuing to serve OEMs, fleets, and aftermarket customers worldwide.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/wabco-holdings/refs/heads/main/apis.yml)
+WABCO Holdings was a leading global supplier of technologies and services that improve the safety, efficiency, and connectivity of commercial vehicles. The company developed advanced braking, stability, suspension, and transmission automation systems. WABCO was acquired by ZF Friedrichshafen in 2020 and now operates as ZF's Commercial Vehicle Control Systems division, continuing to serve OEMs, fleets, and aftermarket customers worldwide with integrated telematics, fleet management, and vehicle safety technologies.
 
-## Scope
+**Areas:** Commercial Vehicles · Fleet Management · Telematics · Safety Systems · Transportation · Fortune 1000
 
-- **Type:** Index
-- **Position:** Producer
-- **Access:** 3rd-Party
+## WABCO Holdings on APIs.io (historical record)
 
-## Tags
+Everything profiled for WABCO Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/wabco-holdings/](https://apis.io/providers/wabco-holdings/)** — or go straight to one of the APIs or properties below.
 
-- Commercial Vehicles
-- Fleet Management
-- Telematics
-- Safety Systems
-- Transportation
+### APIs (1)
 
-## Timestamps
+- [WABCO Fleet Management API](https://apis.io/apis/wabco-holdings/wabco-fleet-management/) — WABCO's fleet management and telematics capabilities, now delivered through ZF's Commercial Vehicle Control Systems division. Provides remote diagnostics,…
 
-- **Created:** 2025-03-01
-- **Modified:** 2026-05-03
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-| API | Description |
-|---|---|
-| [WABCO Fleet Management API](https://wabco-solutioncentre.com) | Fleet management and telematics delivered through ZF's Commercial Vehicle Control Systems division |
+#### JSON-LD (1)
 
-## JSON-LD Context
+Linked-data contexts for the provider's vocabulary.
 
-- [wabco-holdings-context.jsonld](json-ld/wabco-holdings-context.jsonld) — Linked data context for commercial vehicle, fleet, and telematics entities
+- [Wabco Holdings Context](https://apis.io/jsonld/wabco-holdings/wabco-holdings-context/)
 
-## Vocabulary
+#### Vocabulary (1)
 
-- [wabco-holdings-vocabulary.yml](vocabulary/wabco-holdings-vocabulary.yml) — Commercial vehicle safety, fleet management, telematics, and autonomous vehicle vocabulary
+The provider's domain terms, defined.
 
-## Common Properties
+- [WABCO Holdings Vocabulary](https://apis.io/vocabularies/wabco-holdings/wabco-holdings-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Wabco Holdings Domain Security](https://apis.io/security/wabco-holdings/wabco-holdings-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Wabco Holdings Plans Pricing](https://apis.io/plans/wabco-holdings/wabco-holdings-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Wabco Holdings Rate Limits](https://apis.io/rate-limits/wabco-holdings/wabco-holdings-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Wabco Holdings Finops](https://apis.io/finops/wabco-holdings/wabco-holdings-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.wabco-holdings.com)
-- [Solution Centre](https://wabco-solutioncentre.com)
+- [Blog](https://www.wabco-holdings.com/news)
+- [GitHub](https://github.com/WABCO)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for WABCO Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/wabco-holdings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
